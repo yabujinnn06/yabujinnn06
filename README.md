@@ -78,11 +78,13 @@ If something appears here, it is probably only one part of the story.
 ---
 
 ```txt
-if visible:
-    observe()
-else:
-    keep building()
-```
+while signal.is_low():
+    build_quietly()
+    refine_system()
+    leave_trace(if_needed=True)
+
+if signal.is_visible():
+    let_it_speak()
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yabujinnn06&label=Profile%20views&color=111827&style=flat" />
