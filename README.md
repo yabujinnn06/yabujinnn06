@@ -77,7 +77,7 @@ If something appears here, it is probably only one part of the story.
 
 ---
 
-```txt
+```py
 while signal.is_low():
     build_quietly()
     refine_system()
@@ -85,7 +85,7 @@ while signal.is_low():
 
 if signal.is_visible():
     let_it_speak()
-break
+```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yabujinnn06&label=Profile%20views&color=111827&style=flat" />
