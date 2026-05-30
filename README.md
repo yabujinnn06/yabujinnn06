@@ -9,7 +9,7 @@
                                                                               
                               YABUJInnN-                                      
                                                                               
-               private repos / low signal / process over output              
+private repos / low signal / process over output              
                                                                               
 ```
 
