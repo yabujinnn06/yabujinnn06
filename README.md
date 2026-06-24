@@ -12,16 +12,34 @@ quiet systems . private builds . real output
 
 ---
 
-```txt
-[ handle  ]   yabujinnn06
-[ role    ]   builder / quiet operator
-[ signal  ]   private . low . alive
-[ mode    ]   ship in silence
-[ visible ]   a fraction of the work
-[ status  ]   online sometimes
+```console
+$ ssh yabujin@ghost
+Last login: from ./unknown
+
+[ boot ] loading private modules .......... ok
+[ boot ] mounting hidden branches ......... ok
+[ boot ] signal level ..................... low
+[ boot ] status ........................... alive
+
+welcome back, operator.
 ```
 
-### About
+```console
+yabujin@ghost:~$ whoami
+handle    yabujinnn06
+role      builder / quiet operator
+mode      ship in silence
+signal    private . low . alive
+visible   a fraction of the work
+```
+
+---
+
+### `cat about.txt`
+
+```console
+yabujin@ghost:~$ cat about.txt
+```
 
 Çoğu işi private tutuyorum. Bu profil tüm arşiv değil,
 dışarı sızan birkaç iz, birkaç commit, birkaç test alanı.
@@ -32,49 +50,54 @@ saklamak, erken göstermeye çalışmaktan daha değerlidir.
 I keep most of my work private. This page is not the
 archive. It is the visible part of a quieter process.
 
-Not everything needs a title. Not every system needs to
-explain itself. Some work is read through traces, not
-announcements.
+Not every system needs to explain itself. Some work is
+read through traces, not announcements.
 
 ---
 
-### Operations
+### `ls ~/operations`
 
-```txt
-> internal business systems     HR, puantaj, payroll
-> sales & offer tooling         B2B, field ops, PDF/Excel
-> automation & data pipelines   scraping, enrichment, lead-gen
-> delivery                      ships to prod, maintains quietly
+```console
+yabujin@ghost:~$ ls ~/operations
+business-systems/   HR . puantaj . payroll
+sales-tooling/      B2B . field ops . PDF/Excel
+automation/         scraping . enrichment . lead-gen
+delivery/           ships to prod, maintains quietly
 ```
 
-Sahada çalışan, gerçek işler. Reklamı değil, kendisi önemli.
+Sahada çalışan gerçek işler. Reklamı değil, kendisi önemli.
 Real systems in production. The work matters, not the noise.
 
 ---
 
-### Stack
+### `cat stack.cfg`
 
-```txt
-core      Python . FastAPI . SQLite/Postgres
-front     React . TypeScript . Vite
-edge      PWA . automation . scraping
-habit     build . break . fix . hide . repeat
+```console
+yabujin@ghost:~$ cat stack.cfg
+core   = python . fastapi . sqlite/postgres
+front  = react . typescript . vite
+edge   = pwa . automation . scraping
+habit  = build . break . fix . hide . repeat
 ```
 
 ---
 
-### Notes
+### `tail -f signal.log`
 
-```txt
-> hidden branches        > silent fixes
-> late commits           > small traces
-> private systems        > things that work
-> unfinished signals       before they are named
+```console
+yabujin@ghost:~$ tail -f signal.log
+> hidden branch pushed
+> late commit, no message
+> silent fix applied
+> small trace left
+> system works before it is named
 ```
 
 ---
 
 ```py
+yabujin@ghost:~$ python loop.py
+
 while signal.is_low():
     build_quietly()
     refine_system()
@@ -82,6 +105,10 @@ while signal.is_low():
 
 if signal.is_visible():
     let_it_speak()
+```
+
+```console
+yabujin@ghost:~$ _
 ```
 
 <p align="center">
