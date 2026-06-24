@@ -1,10 +1,13 @@
 ```txt
+o##[}=============================>
+
 __   ___   ___ _   _    _ ___ _  _
 \ \ / /_\ | _ ) | | |_ | |_ _| \| |
  \ V / _ \| _ \ |_| | || || || .` |
   |_/_/ \_\___/\___/ \__/|___|_|\_|
 
-quiet systems . private builds . real output
+野 武 人  .  bushido
+quiet . unseen . precise
 ```
 
 <h2 align="center">yabujinnn06</h2>
