@@ -13,10 +13,6 @@ _   _ ____ ___  _  _  _ _ _  _
 
 ---
 
-26 yaşındayım. 2 yıldır bir şeylerle uğraşıyorum.
-
-Ne yaptığımı pek anlatmam. Çoğu şey görünmez, geriye birkaç iz kalır. Acele etmem, sessiz çalışırım.
-
 Some of it shows. Most of it stays quiet.
 
 ---
