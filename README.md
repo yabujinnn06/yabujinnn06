@@ -9,7 +9,7 @@ _   _ ____ ___  _  _  _ _ _  _
 ```
 
 <h2 align="center">yabujinnn06</h2>
-<p align="center"><i>26 . 2 yıl . sessiz . görünmez</i></p>
+<p align="center"><i>:)</i></p>
 
 ---
 
