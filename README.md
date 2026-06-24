@@ -1,119 +1,75 @@
 ```txt
-o##[}=============================>
+/ / / / / / / / / / / / / / /
+ / / / / / / / / / / / / / /
+  / / / / / / / / / / / / /
 
-__   ___   ___ _   _    _ ___ _  _
-\ \ / /_\ | _ ) | | |_ | |_ _| \| |
- \ V / _ \| _ \ |_| | || || || .` |
-  |_/_/ \_\___/\___/ \__/|___|_|\_|
+_   _ ____ ___  _  _  _ _ _  _
+ \_/  |__| |__] |  |  | | |\ |
+  |   |  | |__] |__| _| | | \|
 
-野 武 人  .  bushido
-quiet . unseen . precise
+  / / / / / / / / / / / / /
+ / / / / / / / / / / / / / /
+yapay zeka ile sistem kuruyorum
 ```
 
 <h2 align="center">yabujinnn06</h2>
-<p align="center"><i>I build systems that work before they have a name.</i></p>
+<p align="center"><i>Yazılımcı değilim. Yapay zekayı işe çeviriyorum.</i></p>
 
 ---
 
-```console
-$ ssh yabujin@ghost
-Last login: from ./unknown
-
-[ boot ] loading private modules .......... ok
-[ boot ] mounting hidden branches ......... ok
-[ boot ] signal level ..................... low
-[ boot ] status ........................... alive
-
-welcome back, operator.
+```txt
+kim    yabujinnn06
+alan   yapay zeka uygulama
+değil  kod yazan biri
+yapar  AI ile çalışan sistem
+tarz   sessiz . üretir . anlatmaz
 ```
 
-```console
-yabujin@ghost:~$ whoami
-handle    yabujinnn06
-role      builder / quiet operator
-mode      ship in silence
-signal    private . low . alive
-visible   a fraction of the work
-```
+### About
+
+Ben kod yazan biri değilim. Yazılımdan anlarım ama işim onu satır satır yazmak değil. Uzmanlığım yapay zekayı doğru kullanmak: bir fikri alıp AI ile gerçekten çalışan bir sisteme çevirmek.
+
+Çoğu işi sessizce yapıyorum. Bu profil tüm arşiv değil, dışarı sızan birkaç iz.
+
+I am not a developer. I understand software, but writing it line by line is not my job. My expertise is using AI well: taking an idea and turning it into a system that actually runs. Most of it stays private. This page is only the visible part.
 
 ---
 
-### `cat about.txt`
+### Ne yapıyorum
 
-```console
-yabujin@ghost:~$ cat about.txt
+```txt
+> fikri çalışan sisteme çeviririm
+> AI'ya iş yaptırırım (ajan/akış)
+> iş sistemleri kurarım
+> sessiz kurar, sessiz bakarım
 ```
 
-Çoğu işi private tutuyorum. Bu profil tüm arşiv değil,
-dışarı sızan birkaç iz, birkaç commit, birkaç test alanı.
-
-Ne ürettiğimi her zaman açıklamıyorum. Bazen bir fikri
-saklamak, erken göstermeye çalışmaktan daha değerlidir.
-
-I keep most of my work private. This page is not the
-archive. It is the visible part of a quieter process.
-
-Not every system needs to explain itself. Some work is
-read through traces, not announcements.
+Reklamı değil, çalışması önemli.
+The work matters, not the noise.
 
 ---
 
-### `ls ~/operations`
+### Araçlar
 
-```console
-yabujin@ghost:~$ ls ~/operations
-business-systems/   HR . puantaj . payroll
-sales-tooling/      B2B . field ops . PDF/Excel
-automation/         scraping . enrichment . lead-gen
-delivery/           ships to prod, maintains quietly
-```
-
-Sahada çalışan gerçek işler. Reklamı değil, kendisi önemli.
-Real systems in production. The work matters, not the noise.
-
----
-
-### `cat stack.cfg`
-
-```console
-yabujin@ghost:~$ cat stack.cfg
-core   = python . fastapi . sqlite/postgres
-front  = react . typescript . vite
-edge   = pwa . automation . scraping
-habit  = build . break . fix . hide . repeat
+```txt
+ai     llm . ajan . prompt
+build  AI destekli geliştirme
+ship   web . pwa . otomasyon
+hedef  fikir -> çalışan sistem
 ```
 
 ---
 
-### `tail -f signal.log`
+```txt
+fikir  = al()
+sistem = ai.calistir(fikir)
 
-```console
-yabujin@ghost:~$ tail -f signal.log
-> hidden branch pushed
-> late commit, no message
-> silent fix applied
-> small trace left
-> system works before it is named
-```
+while not sistem.calisiyor:
+    ai.duzelt(sistem)
 
----
-
-```py
-yabujin@ghost:~$ python loop.py
-
-while signal.is_low():
-    build_quietly()
-    refine_system()
-    leave_trace(if_needed=True)
-
-if signal.is_visible():
-    let_it_speak()
-```
-
-```console
-yabujin@ghost:~$ _
+yayinla(sistem, sessizce=True)
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yabujinnn06&label=traces&color=111827&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yabujinnn06&label=iz&color=111827&style=flat" alt="profile views" />
 </p>
