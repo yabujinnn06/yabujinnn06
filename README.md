@@ -1,78 +1,76 @@
 ```txt
+__   ___   ___ _   _    _ ___ _  _
+\ \ / /_\ | _ ) | | |_ | |_ _| \| |
+ \ V / _ \| _ \ |_| | || || || .` |
+  |_/_/ \_\___/\___/ \__/|___|_|\_|
 
-                                                                             
-  __   __   _    ____  _   _      _ ___                  _   _           
-  \ \ / /  / \  | __ )| | | |    | |_ _|  _ __   _ __   | \ | |           
-   \ V /  / _ \ |  _ \| | | | _  | || |  | '_ \ | '_ \  |  \| |          
-    | |  / ___ \| |_) | |_| || |_| || |  | | | || | | | | |\  |           
-    |_| /_/   \_\____/ \___/  \___/|___| |_| |_||_| |_| |_| \_|           
-                                                                              
-                              YABUJInnN-                                      
-                                                                              
-private repos / low signal / process over output              
-                                                                              
+quiet systems . private builds . real output
 ```
 
-<h2 align="center">Hi there. This is yabujinnn06.</h2>
-
----
-
-- TR / EN  
-- Private repos. Quiet commits. Selective output.  
-- Çoğu şey görünmez, bazı izler kalır.  
-- Ne ürettiğimi her zaman söylemiyorum.  
-- Çünkü bazen işin kendisi değil, arkasındaki süreç daha değerlidir.  
-- I do not always explain what I build.  
-- Some work is better understood through traces, not announcements.
+<h2 align="center">yabujinnn06</h2>
+<p align="center"><i>I build systems that work before they have a name.</i></p>
 
 ---
 
 ```txt
-[ handle ]   yabujinnn06
-[ signal ]   private / low / alive
-[ mode   ]   quiet build
-[ repos  ]   mostly hidden
-[ output ]   selective
-[ status ]   online sometimes
-[ path   ]   ./unknown
+[ handle  ]   yabujinnn06
+[ role    ]   builder / quiet operator
+[ signal  ]   private . low . alive
+[ mode    ]   ship in silence
+[ visible ]   a fraction of the work
+[ status  ]   online sometimes
 ```
 
 ### About
 
-Bazı şeyleri public bırakıyorum.  
-Bazılarını kapalı tutuyorum.  
-Bazıları sadece çalışıyor, açıklanmıyor.
+Çoğu işi private tutuyorum. Bu profil tüm arşiv değil,
+dışarı sızan birkaç iz, birkaç commit, birkaç test alanı.
 
-Buradaki profil tüm arşiv değil.  
-Daha çok dışarı sızan birkaç commit, birkaç iz, birkaç test alanı.
+Ne ürettiğimi her zaman açıklamıyorum. Bazen bir fikri
+saklamak, erken göstermeye çalışmaktan daha değerlidir.
 
-I keep most of my work private.  
-This profile is not the full archive.  
-It is only the visible part of a quieter process.
+I keep most of my work private. This page is not the
+archive. It is the visible part of a quieter process.
 
-Not everything needs a title.  
-Not every project needs a public repo.  
-Not every system needs to explain itself.
+Not everything needs a title. Not every system needs to
+explain itself. Some work is read through traces, not
+announcements.
+
+---
+
+### Operations
+
+```txt
+> internal business systems     HR, puantaj, payroll
+> sales & offer tooling         B2B, field ops, PDF/Excel
+> automation & data pipelines   scraping, enrichment, lead-gen
+> delivery                      ships to prod, maintains quietly
+```
+
+Sahada çalışan, gerçek işler. Reklamı değil, kendisi önemli.
+Real systems in production. The work matters, not the noise.
+
+---
+
+### Stack
+
+```txt
+core      Python . FastAPI . SQLite/Postgres
+front     React . TypeScript . Vite
+edge      PWA . automation . scraping
+habit     build . break . fix . hide . repeat
+```
 
 ---
 
 ### Notes
 
 ```txt
-> hidden branches
-> late commits
-> private systems
-> unfinished signals
-> silent fixes
-> small traces
-> things that work before they are named
+> hidden branches        > silent fixes
+> late commits           > small traces
+> private systems        > things that work
+> unfinished signals       before they are named
 ```
-
-Ne yaptığımı anlatmaktan çok, çalıştırmaya odaklanıyorum.  
-Bazen bir fikri saklamak, erken göstermeye çalışmaktan daha iyidir.
-
-I build, break, fix, hide, repeat.  
-If something appears here, it is probably only one part of the story.
 
 ---
 
@@ -87,5 +85,5 @@ if signal.is_visible():
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yabujinnn06&label=Profile%20views&color=111827&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=yabujinnn06&label=traces&color=111827&style=flat" alt="profile views" />
 </p>
