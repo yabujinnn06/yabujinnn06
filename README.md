@@ -1,4 +1,4 @@
-<h1 align="center">yAbujiNn</h1>
+<h1 align="center">yAbujin;;;</h1>
 
 ```
 Exe build: 14:22:08 Oct  6 2026 (4554)
