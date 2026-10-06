@@ -1,9 +1,6 @@
-<h1 align="center">Console</h1>
+<h1 align="center">yAbujiNn</h1>
 
 ```
-Counter-Strike 1.6 (c) 1999-2003 Valve L.L.C.
-Protocol version 48
-Exe version 1.1.2.7/Stdio (cstrike)
 Exe build: 14:22:08 Oct  6 2026 (4554)
 
 Console initialized.
