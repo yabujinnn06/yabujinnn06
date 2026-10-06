@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1049" viewBox="0 0 760 1049" role="img" aria-label="CS 1.6 console showing the yAbujiNN profile">
+<rect width="760" height="1049" fill="#4a5942"/>
+<path d="M0 1049V0H760" fill="none" stroke="#8b9a82" stroke-width="2"/>
+<path d="M0 1049H760V0" fill="none" stroke="#2b3326" stroke-width="2"/>
+<text x="380.0" y="21" text-anchor="middle" font-family="Tahoma,Verdana,Arial,sans-serif" font-size="14" fill="#dfe6d8">Console</text>
+<g stroke="#dfe6d8" stroke-width="1.6"><path d="M736 9l9 9M745 9l-9 9"/></g>
+<rect x="10" y="34" width="740" height="963" fill="#10130d" stroke="#2b3326"/>
+<text x="18" y="60" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">Counter-Strike 1.6 (c) 1999-2003 Valve L.L.C.</text>
+<text x="18" y="77" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">Protocol version 48</text>
+<text x="18" y="94" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">Exe version 1.1.2.7/Stdio (cstrike)</text>
+<text x="18" y="111" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">Exe build: 14:22:08 Oct  6 2026 (4554)</text>
+<text x="18" y="145" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">Console initialized.</text>
+<text x="18" y="162" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">Auto-detecting video settings...</text>
+<text x="18" y="179" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">Game Mode: yAbujiNN (quiet builder, private signal)</text>
+<text x="18" y="213" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">] status</text>
+<text x="18" y="230" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">hostname:  &gt;yAbujiNN</text>
+<text x="18" y="247" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">version :  48/1.1.2.7/4554 secure</text>
+<text x="18" y="264" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">map     :  de_workbench</text>
+<text x="18" y="281" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">players :  1 active (0 spectators, 0 bots) (1 max)</text>
+<text x="18" y="315" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e"># name        userid  uniqueid     state</text>
+<text x="18" y="332" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">1 "yAbujiNN"  1       STEAM_0:0:1  active</text>
+<text x="18" y="366" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">] cl_motd</text>
+<text x="18" y="383" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">I build things around software, AI, and whatever seems</text>
+<text x="18" y="400" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">interesting enough to keep me awake.</text>
+<text x="18" y="434" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">I'm not here to pretend I know everything.</text>
+<text x="18" y="451" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">I'm here to learn fast, build often,</text>
+<text x="18" y="468" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">and make things that shouldn't exist yet.</text>
+<text x="18" y="502" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">] cvarlist current</text>
+<text x="18" y="519" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">  experimenting   "AI systems"</text>
+<text x="18" y="536" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">  building        "small tools and weird ideas"</text>
+<text x="18" y="553" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">  learning        "by shipping"</text>
+<text x="18" y="570" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">  breaking        "things, then figuring out why"</text>
+<text x="18" y="604" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">] cvarlist interests</text>
+<text x="18" y="621" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">  ai "1"   llms "1"   agents "1"</text>
+<text x="18" y="638" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">  python "1"   typescript "1"   systems "1"</text>
+<text x="18" y="672" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">] alias philosophy</text>
+<text x="18" y="689" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">  alias +build      "Build first."</text>
+<text x="18" y="706" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">  alias +understand "Understand deeper."</text>
+<text x="18" y="723" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">  alias +remove     "Remove what doesn't matter."</text>
+<text x="18" y="757" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">] bind "simple" "systems; small experiments; projects that teach me something"</text>
+<text x="18" y="774" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">] simple</text>
+<text x="18" y="791" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">Binding executed.</text>
+<text x="18" y="825" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">] maps projects</text>
+<text x="18" y="842" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">Most things here start as an experiment.</text>
+<text x="18" y="859" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">Some become useful.</text>
+<text x="18" y="876" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">Some disappear.</text>
+<text x="18" y="893" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">That's fine.</text>
+<text x="18" y="927" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">Map list: de_experiment, de_useful, de_gone (3 maps)</text>
+<text x="18" y="961" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">] echo some of it shows. most of it stays quiet.</text>
+<text x="18" y="978" xml:space="preserve" font-family="'Lucida Console','DejaVu Sans Mono',Consolas,monospace" font-size="13.5" fill="#ffb41e">some of it shows. most of it stays quiet.</text>
+<rect x="734" y="34" width="16" height="963" fill="#3a4533"/>
+<rect x="734" y="34" width="16" height="16" fill="#4a5942" stroke="#8b9a82"/><path d="M738 45l4-6 4 6z" fill="#dfe6d8"/>
+<rect x="734" y="981" width="16" height="16" fill="#4a5942" stroke="#8b9a82"/><path d="M738 986l4 6 4-6z" fill="#dfe6d8"/>
+<rect x="734" y="548" width="16" height="433" fill="#4a5942" stroke="#8b9a82"/>
+<rect x="10" y="1009" width="640" height="26" fill="#10130d" stroke="#2b3326"/>
+<text x="18" y="1027" font-family="'Lucida Console','DejaVu Sans Mono',monospace" font-size="13.5" fill="#ffb41e">_</text>
+<rect x="660" y="1009" width="90" height="26" fill="#4a5942"/><path d="M660 1035V1009H750" fill="none" stroke="#8b9a82" stroke-width="2"/><path d="M660 1035H750V1009" fill="none" stroke="#2b3326" stroke-width="2"/>
+<text x="705" y="1027" text-anchor="middle" font-family="Tahoma,Verdana,Arial,sans-serif" font-size="13" fill="#dfe6d8">Submit</text>
+</svg>
